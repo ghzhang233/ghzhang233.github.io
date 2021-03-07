@@ -6,6 +6,7 @@ papers:
     paper_pdf: "https://www.aclweb.org/anthology/P19-1435.pdf"
     code: "https://github.com/ghzhang233/Leakage-Neutral-Learning-for-QuoraQP"
     video: "https://vimeo.com/385204070"
+    slides: "https://1drv.ms/p/s!AllWZUS5c3n1gaUgnMpnCIPw7KGuxA?e=Iu9Tgb"
     selected: y
 
   - title: "Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting"
@@ -14,6 +15,7 @@ papers:
     paper_pdf: "https://www.aclweb.org/anthology/2020.acl-main.380.pdf"
     code: "https://github.com/ghzhang233/Non-Discrimination-Learning-for-Text-Classification"
     video: "https://slideslive.com/38928723/demographics-should-not-be-the-reason-of-toxicity-mitigating-discrimination-in-text-classifications-with-instance-weighting"
+    slides: "https://1drv.ms/p/s!AllWZUS5c3n1gdcfdkuqHBDegkH9YQ?e=eXhbDt"
     selected: y
 
   - title: "Why is Attention Not So Attentive?"

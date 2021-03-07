@@ -1,13 +1,19 @@
 experiences:
 
-- place: "Place1"
+- place: "Tencent"
   time: "2020 - now"
-  title: "RA"
+  title: "Research Assistant"
   subtitle: ""
   category: "work"
 
-- place: "Place2"
-  time: "2020 - now"
-  title: "RA"
+- place: "Tencent"
+  time: "2018 - 2020"
+  title: "Research Internship"
+  subtitle: ""
+  category: "work"
+
+- place: "Harbin Institute of Technology"
+  time: "2015 - 2020"
+  title: "B.S. student"
   subtitle: ""
   category: "school"

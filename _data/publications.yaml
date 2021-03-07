@@ -1,12 +1,31 @@
 papers:
 
-  - title: "Test Paper 1"
-    authors: "Guanhua Zhang"
-    venue: ""
+  - title: "Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets"
+    authors: "Guanhua Zhang‡, Bing Bai‡, Jian Liang, Kun Bai, Shiyu Chang, Mo Yu, Conghui Zhu, Tiejun Zhao"
+    venue: "ACL'19: Annual Meeting of the Association for Computational Linguistics."
     selected: y
 
-
-  - title: "Test Paper 2"
-    authors: "Guanhua Zhang"
-    venue: ""
+  - title: "Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting"
+    authors: "Guanhua Zhang‡, Bing Bai‡, Junqi Zhang, Kun Bai, Conghui Zhu, Tiejun Zhao"
+    venue: "ACL'20: Annual Meeting of the Association for Computational Linguistics."
     selected: y
+
+  - title: "Why is Attention Not So Attentive?"
+    authors: "Bing Bai, Jian Liang, Guanhua Zhang, Hao Li, Kun Bai, Fei Wang"
+    venue: "Preprint in arXiv: https://arxiv.org/pdf/2006.05656."
+    selected: n
+
+  - title: "Reliable Evaluations for Natural Language Inference based on a Unified Cross-dataset Benchmark"
+    authors: "Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
+    venue: "Preprint in arXiv: https://arxiv.org/abs/2010.07676."
+    selected: n
+
+  - title: "Mitigating Annotation Artifacts in Natural Language Inference Datasets to Improve Cross-dataset Generalization Ability"
+    authors: "Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
+    venue: "Preprint in arXiv: https://arxiv.org/abs/1909.04242."
+    selected: n
+
+  - title: "CSRN: Collaborative Sequential Recommendation Networks for News Retrieval"
+    authors: "Bing Bai, Guanhua Zhang, Ye Lin, Hao Li, Kun Bai, Bo Luo"
+    venue: "Preprint in arXiv: https://arxiv.org/pdf/2004.04816."
+    selected: n

@@ -13,23 +13,23 @@ papers:
   - title: "Why is Attention Not So Attentive?"
     authors: "Bing Bai, Jian Liang, Guanhua Zhang, Hao Li, Kun Bai, Fei Wang"
     venue: "Preprint in arXiv"
-    pdf: "https://arxiv.org/pdf/2006.05656.pdf"
+    paper_pdf: "https://arxiv.org/pdf/2006.05656.pdf"
     selected: n
 
   - title: "Reliable Evaluations for Natural Language Inference based on a Unified Cross-dataset Benchmark"
     authors: "Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
     venue: "Preprint in arXiv"
-    pdf: "https://arxiv.org/abs/2010.07676.pdf"
+    paper_pdf: "https://arxiv.org/abs/2010.07676.pdf"
     selected: n
 
   - title: "Mitigating Annotation Artifacts in Natural Language Inference Datasets to Improve Cross-dataset Generalization Ability"
     authors: "Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
     venue: "Preprint in arXiv"
-    pdf: "https://arxiv.org/abs/1909.04242"
+    paper_pdf: "https://arxiv.org/abs/1909.04242"
     selected: n
 
   - title: "CSRN: Collaborative Sequential Recommendation Networks for News Retrieval"
     authors: "Bing Bai, Guanhua Zhang, Ye Lin, Hao Li, Kun Bai, Bo Luo"
     venue: "Preprint in arXiv"
-    pdf: "https://arxiv.org/pdf/2004.04816"
+    paper_pdf: "https://arxiv.org/pdf/2004.04816"
     selected: n

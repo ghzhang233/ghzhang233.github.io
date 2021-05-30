@@ -35,7 +35,7 @@ title: Home
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors | markdownify}}</p>
-          <p><i>{{ paper.venue }}</i></p>
+          <p><i>{{ paper.venue  | markdownify}}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
@@ -66,7 +66,7 @@ title: Home
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors | markdownify}}</p>
-          <p><i>{{ paper.venue }}</i></p>
+          <p><i>{{ paper.venue  | markdownify}}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>

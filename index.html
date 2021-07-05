@@ -10,7 +10,7 @@ title: Home
   </p>
 
   <p>
-    Recently, he is interested in working on alleviating the social biases in natural language processing systems. Another line of his research is to improve the robustness of computational linguistic models against dataset biases.
+    Recently, he is interested in working on alleviating the social biases in natural language processing systems. Another line of his research is to improve the robustness of computational linguistic models against dataset biases and adversarial attacks.
   </p>
 </div>
 
@@ -34,8 +34,8 @@ title: Home
       {% for paper in selected_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
+          <p>{{ paper.authors | markdownify}}</p>
+          <p><i>{{ paper.venue  | markdownify}}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
@@ -65,8 +65,8 @@ title: Home
       {% for paper in site.data.publications.papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
+          <p>{{ paper.authors | markdownify}}</p>
+          <p><i>{{ paper.venue  | markdownify}}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>

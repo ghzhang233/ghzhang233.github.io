@@ -1,8 +1,14 @@
 papers:
 
+  - title: "Why is Attention Not So Interpretable?"
+    authors: "Bing Bai<sup>‡</sup>, Jian Liang<sup>‡</sup>, **Guanhua Zhang**, Hao Li, Kun Bai, Fei Wang"
+    venue: "**KDD'21**: ACM SIGKDD International Conference on Knowledge Discovery & Data Mining"
+    paper_pdf: "https://arxiv.org/pdf/2006.05656.pdf"
+    selected: y
+
   - title: "Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting"
-    authors: "Guanhua Zhang<sup>‡</sup>, Bing Bai<sup>‡</sup>, Junqi Zhang, Kun Bai, Conghui Zhu, Tiejun Zhao"
-    venue: "ACL'20: Annual Meeting of the Association for Computational Linguistics."
+    authors: "**Guanhua Zhang**<sup>‡</sup>, Bing Bai<sup>‡</sup>, Junqi Zhang, Kun Bai, Conghui Zhu, Tiejun Zhao"
+    venue: "**ACL'20**: Annual Meeting of the Association for Computational Linguistics"
     paper_pdf: "https://www.aclweb.org/anthology/2020.acl-main.380.pdf"
     code: "https://github.com/ghzhang233/Non-Discrimination-Learning-for-Text-Classification"
     video: "https://slideslive.com/38928723/demographics-should-not-be-the-reason-of-toxicity-mitigating-discrimination-in-text-classifications-with-instance-weighting"
@@ -10,34 +16,28 @@ papers:
     selected: y
 
   - title: "Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets"
-    authors: "Guanhua Zhang<sup>‡</sup>, Bing Bai<sup>‡</sup>, Jian Liang, Kun Bai, Shiyu Chang, Mo Yu, Conghui Zhu, Tiejun Zhao"
-    venue: "ACL'19: Annual Meeting of the Association for Computational Linguistics."
+    authors: "**Guanhua Zhang**<sup>‡</sup>, Bing Bai<sup>‡</sup>, Jian Liang, Kun Bai, Shiyu Chang, Mo Yu, Conghui Zhu, Tiejun Zhao"
+    venue: "**ACL'19**: Annual Meeting of the Association for Computational Linguistics"
     paper_pdf: "https://www.aclweb.org/anthology/P19-1435.pdf"
     code: "https://github.com/ghzhang233/Leakage-Neutral-Learning-for-QuoraQP"
     video: "https://vimeo.com/385204070"
     slides: "https://1drv.ms/p/s!AllWZUS5c3n1gaUgnMpnCIPw7KGuxA?e=Iu9Tgb"
     selected: y
 
-  - title: "Why is Attention Not So Attentive?"
-    authors: "Bing Bai, Jian Liang, Guanhua Zhang, Hao Li, Kun Bai, Fei Wang"
-    venue: "Preprint in arXiv: 2006.05656"
-    paper_pdf: "https://arxiv.org/pdf/2006.05656.pdf"
-    selected: n
-
   - title: "Reliable Evaluations for Natural Language Inference based on a Unified Cross-dataset Benchmark"
-    authors: "Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
+    authors: "**Guanhua Zhang**, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
     venue: "Preprint in arXiv: 2010.07676"
     paper_pdf: "https://arxiv.org/abs/2010.07676.pdf"
     selected: n
 
   - title: "Mitigating Annotation Artifacts in Natural Language Inference Datasets to Improve Cross-dataset Generalization Ability"
-    authors: "Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
+    authors: "**Guanhua Zhang**, Bing Bai, Jian Liang, Kun Bai, Conghui Zhu, Tiejun Zhao"
     venue: "Preprint in arXiv: 1909.04242"
     paper_pdf: "https://arxiv.org/abs/1909.04242"
     selected: n
 
   - title: "CSRN: Collaborative Sequential Recommendation Networks for News Retrieval"
-    authors: "Bing Bai, Guanhua Zhang, Ye Lin, Hao Li, Kun Bai, Bo Luo"
+    authors: "Bing Bai, **Guanhua Zhang**, Ye Lin, Hao Li, Kun Bai, Bo Luo"
     venue: "Preprint in arXiv: 2004.04816"
     paper_pdf: "https://arxiv.org/pdf/2004.04816"
     selected: n

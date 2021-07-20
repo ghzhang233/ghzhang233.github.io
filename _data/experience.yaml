@@ -1,7 +1,12 @@
 experiences:
 
+- place: "UC Santa Barbara"
+  time: "2021 - now"
+  title: "Ph.D. student"
+  category: "school"
+
 - place: "Tencent"
-  time: "2020 - now"
+  time: "2020 - 2021"
   title: "Research Assistant"
   subtitle: "Guangzhou, China"
   category: "work"
